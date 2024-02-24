@@ -3,8 +3,14 @@ def main():
     ##################################################
     # Comlete your code here
     Use the same variables: celsius fahrenheit 
+
+
+
     ##################################################
     """
+    celsius = int(input("Enter the tempature in celsius:"))   
+    fahrenheit = celsius /5 *9 +32
+    print (fahrenheit)
 
     """
     ########################################
